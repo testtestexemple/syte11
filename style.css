@@ -1,0 +1,69 @@
+#header{
+    background: linear-gradient(to bottom right, blue, pink);
+    margin: -8px;
+    padding: 15px;
+    text-align: center;
+}
+#img1{
+    width: 500px;
+    height: 500px;
+    padding: 150px;
+}
+#img2{
+    background-color: black;
+    margin: -5%;
+    margin-right: -0.7%;
+    height: 1400px;
+    margin-top: 3%;
+}
+#text2{
+    color: white;
+    font-size: 50px;
+}
+#nav{
+    background: linear-gradient(to bottom, gray, green);
+    margin: -8px;
+    margin-top: -20px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+#buyButton{
+    border: outset;
+    border-radius: 50px;
+    margin-right: -60%;
+    margin-left: 110%;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#text1{
+    font-size: 30px;
+}
+#button1{
+    background-color: rgb(0, 185, 0);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+}
+#footer{
+    border-style:outset;
+    border-color: black;
+    background: grey;
+    text-align: right;
+    margin: -10px;
+    margin-top: -17px;
+    margin-right: -8px;
+    padding: 10px;
+    padding-right: 30px;
+}
+
+#buy{
+    background: linear-gradient(to bottom right, blue, pink);
+    margin: -8px;
+    
+}
+#buy2{
+    margin-left: 60%;
+    margin-top: 15%;
+}
